@@ -1,0 +1,6 @@
+Old/new certificate SHA256: 21161b663747befc178dbd4aa4dac8a5a2c5ec2c24df08c1ad92dfeb7748de8c
+Application ID: ru.kuzel.chaoscalculator
+Version: 0.5.0 (5); previous 0.4.0 (4)
+minSdk: 24; targetSdk: 35
+APK signature verified with apksigner. Same signing/debug.keystore.
+APK SHA256: b8e3bfa53e687e683d13d7bf07a9e294b01484f1f63ecaad9bb898895a6a94f2

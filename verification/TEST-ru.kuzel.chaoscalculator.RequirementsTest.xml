@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.kuzel.chaoscalculator.RequirementsTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2026-11-09T12:09:30" hostname="55fbabe14bdc" time="0.002">
+  <properties/>
+  <testcase name="lastEraseIsLatchedUntilExplicitRestore" classname="ru.kuzel.chaoscalculator.RequirementsTest" time="0.0"/>
+  <testcase name="displaySeparatesHistoryOperationAndOperand" classname="ru.kuzel.chaoscalculator.RequirementsTest" time="0.001"/>
+  <testcase name="savedGeneratedPrefixDoesNotLockAfterRotation" classname="ru.kuzel.chaoscalculator.RequirementsTest" time="0.0"/>
+  <testcase name="result33AndItsContinuationAreNotTyped33" classname="ru.kuzel.chaoscalculator.RequirementsTest" time="0.0"/>
+  <testcase name="oldLockedResultIsMigratedAndChaosToggleDoesNotRelock" classname="ru.kuzel.chaoscalculator.RequirementsTest" time="0.0"/>
+  <testcase name="literalPairStillLocksAfterAComputedPrefix" classname="ru.kuzel.chaoscalculator.RequirementsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

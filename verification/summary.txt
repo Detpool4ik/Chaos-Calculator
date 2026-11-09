@@ -1,0 +1,7 @@
+ChaosCalculator 0.5.0
+Build: testDebugUnitTest assembleDebug lintDebug — SUCCESS
+{'tests': 88, 'failures': 0, 'errors': 0, 'skipped': 0}
+API 24 interaction tests: 33 input vs result, three display fields, saved state, erasure latch, fixed C, dragging, percent return, previous scenes.
+API 28 native graphics: portrait and landscape renders; visible control bounds asserted.
+Portrait/landscape PNGs visually inspected. Physical-device installation and animation smoothness not tested.
+Lint details: lint.txt.

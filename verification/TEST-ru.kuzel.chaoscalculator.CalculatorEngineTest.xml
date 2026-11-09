@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.kuzel.chaoscalculator.CalculatorEngineTest" tests="23" skipped="0" failures="0" errors="0" timestamp="2026-11-09T12:09:30" hostname="55fbabe14bdc" time="0.012">
+  <properties/>
+  <testcase name="operatorCanBeReplaced" classname="ru.kuzel.chaoscalculator.CalculatorEngineTest" time="0.002"/>
+  <testcase name="negativeNumbers" classname="ru.kuzel.chaoscalculator.CalculatorEngineTest" time="0.002"/>
+  <testcase name="twoThreesLockImmediatelyAndDeleteRecovers" classname="ru.kuzel.chaoscalculator.CalculatorEngineTest" time="0.0"/>
+  <testcase name="twelveRapidDigitsNoLongerCollapse" classname="ru.kuzel.chaoscalculator.CalculatorEngineTest" time="0.0"/>
+  <testcase name="digitAfterEqualsStartsNewNumber" classname="ru.kuzel.chaoscalculator.CalculatorEngineTest" time="0.0"/>
+  <testcase name="forbidsRepeatedDecimal" classname="ru.kuzel.chaoscalculator.CalculatorEngineTest" time="0.0"/>
+  <testcase name="chaosOffUnblocksWithoutLosingInput" classname="ru.kuzel.chaoscalculator.CalculatorEngineTest" time="0.0"/>
+  <testcase name="ordinaryOperandsContainingSingleThreeAreNotPair" classname="ru.kuzel.chaoscalculator.CalculatorEngineTest" time="0.001"/>
+  <testcase name="normalModeHasNoEasterEggs" classname="ru.kuzel.chaoscalculator.CalculatorEngineTest" time="0.0"/>
+  <testcase name="rouletteReplacesRequestedDigitWithWheelValueExactlyOnce" classname="ru.kuzel.chaoscalculator.CalculatorEngineTest" time="0.0"/>
+  <testcase name="slowInputDoesNotCollapseUntilLengthLimit" classname="ru.kuzel.chaoscalculator.CalculatorEngineTest" time="0.003"/>
+  <testcase name="divideByZeroReturnsMessageWithoutCrash" classname="ru.kuzel.chaoscalculator.CalculatorEngineTest" time="0.0"/>
+  <testcase name="rouletteSurvivesOperatorAndCanBeCancelled" classname="ru.kuzel.chaoscalculator.CalculatorEngineTest" time="0.0"/>
+  <testcase name="resultContaining33DoesNotLock" classname="ru.kuzel.chaoscalculator.CalculatorEngineTest" time="0.0"/>
+  <testcase name="sixMinusSevenWorks" classname="ru.kuzel.chaoscalculator.CalculatorEngineTest" time="0.0"/>
+  <testcase name="recreationRestoresLockedAndWaitingStates" classname="ru.kuzel.chaoscalculator.CalculatorEngineTest" time="0.0"/>
+  <testcase name="leadingDecimalAndSign" classname="ru.kuzel.chaoscalculator.CalculatorEngineTest" time="0.0"/>
+  <testcase name="operatorAfterEqualsContinuesAnswer" classname="ru.kuzel.chaoscalculator.CalculatorEngineTest" time="0.001"/>
+  <testcase name="divisionHasEightySignificantDigits" classname="ru.kuzel.chaoscalculator.CalculatorEngineTest" time="0.0"/>
+  <testcase name="respectsPrecedence" classname="ru.kuzel.chaoscalculator.CalculatorEngineTest" time="0.0"/>
+  <testcase name="decimalIsExact" classname="ru.kuzel.chaoscalculator.CalculatorEngineTest" time="0.0"/>
+  <testcase name="sixSevenWaitOnlyOnEquals" classname="ru.kuzel.chaoscalculator.CalculatorEngineTest" time="0.001"/>
+  <testcase name="incompleteExpressionDoesNotCrash" classname="ru.kuzel.chaoscalculator.CalculatorEngineTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

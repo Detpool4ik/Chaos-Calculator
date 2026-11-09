@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.kuzel.chaoscalculator.NewEffectsTest" tests="19" skipped="0" failures="0" errors="0" timestamp="2026-11-09T12:09:30" hostname="55fbabe14bdc" time="0.018">
+  <properties/>
+  <testcase name="negativeAndRepeatedPercentages" classname="ru.kuzel.chaoscalculator.NewEffectsTest" time="0.0"/>
+  <testcase name="sixEqualsProduceWordAndOtherKeyBreaksStreak" classname="ru.kuzel.chaoscalculator.NewEffectsTest" time="0.001"/>
+  <testcase name="longPercentageInputStaysBounded" classname="ru.kuzel.chaoscalculator.NewEffectsTest" time="0.008"/>
+  <testcase name="sameDigitInflatesAndStaysBounded" classname="ru.kuzel.chaoscalculator.NewEffectsTest" time="0.001"/>
+  <testcase name="fivePercentsFlyOnce" classname="ru.kuzel.chaoscalculator.NewEffectsTest" time="0.001"/>
+  <testcase name="percentBurstHasTotalTimeLimit" classname="ru.kuzel.chaoscalculator.NewEffectsTest" time="0.0"/>
+  <testcase name="simplePercentage" classname="ru.kuzel.chaoscalculator.NewEffectsTest" time="0.001"/>
+  <testcase name="existingBlockingEffectsTakePriority" classname="ru.kuzel.chaoscalculator.NewEffectsTest" time="0.0"/>
+  <testcase name="operatorAfterWordUsesPreviousNumericValue" classname="ru.kuzel.chaoscalculator.NewEffectsTest" time="0.001"/>
+  <testcase name="multiplicationAndDivisionPercentages" classname="ru.kuzel.chaoscalculator.NewEffectsTest" time="0.001"/>
+  <testcase name="wordOnEmptyScreenIsNotZeroAndCanBeCleared" classname="ru.kuzel.chaoscalculator.NewEffectsTest" time="0.0"/>
+  <testcase name="wordPersistsAcrossRecreation" classname="ru.kuzel.chaoscalculator.NewEffectsTest" time="0.0"/>
+  <testcase name="switchingDigitsOrPausingResetsInflation" classname="ru.kuzel.chaoscalculator.NewEffectsTest" time="0.0"/>
+  <testcase name="disablingChaosRestoresNumericAnswer" classname="ru.kuzel.chaoscalculator.NewEffectsTest" time="0.0"/>
+  <testcase name="minusAfterWordOnEmptyScreenStartsNegativeNumber" classname="ru.kuzel.chaoscalculator.NewEffectsTest" time="0.001"/>
+  <testcase name="disabledChaosNeverGrowsOrFliesOrShowsWord" classname="ru.kuzel.chaoscalculator.NewEffectsTest" time="0.001"/>
+  <testcase name="freshDigitAfterWordStartsNewCalculation" classname="ru.kuzel.chaoscalculator.NewEffectsTest" time="0.0"/>
+  <testcase name="contextualAdditionAndSubtractionPercentages" classname="ru.kuzel.chaoscalculator.NewEffectsTest" time="0.0"/>
+  <testcase name="percentOnEmptyAndIncompleteExpressionsDoesNotCrash" classname="ru.kuzel.chaoscalculator.NewEffectsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.kuzel.chaoscalculator.LayoutRenderTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-11-09T12:09:20" hostname="55fbabe14bdc" time="5.089">
+  <properties/>
+  <testcase name="portrait" classname="ru.kuzel.chaoscalculator.LayoutRenderTest" time="4.725"/>
+  <testcase name="landscape" classname="ru.kuzel.chaoscalculator.LayoutRenderTest" time="0.364"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
